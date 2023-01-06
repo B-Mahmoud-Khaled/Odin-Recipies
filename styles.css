@@ -1,0 +1,44 @@
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    background-color: lightblue;
+    color: white;
+    font-size: 32px;
+    border: 2px solid;
+    border-color: rgb(44, 187, 223);
+}
+
+h2{
+    background-color: lightblue;
+    color: white;
+    font-size: 26px;
+    border: 2px solid;
+    border-color: rgb(44, 187, 223);
+}
+
+h3{
+    color: lightblue;
+}
+
+p{
+    color: rgb(63, 177, 212);
+}
+
+ol,ul{
+    color: rgb(63, 177, 212);
+
+}
+
+ol::marker, li::marker{
+    color: rgb(63, 177, 240);
+}
+
+a {
+    background-color: lightblue;
+    font-size: 22px;
+    color: white;
+}
